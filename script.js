@@ -1,5 +1,5 @@
 /* ============================================================
-   ALASTRO CLAN — INTERACTIVE FEATURES
+   HIGH ALTITUDE — INTERACTIVE FEATURES
    Particles · Scroll Animations · Navbar · Mobile Menu
    ============================================================ */
 
